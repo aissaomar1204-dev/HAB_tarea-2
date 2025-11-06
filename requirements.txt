@@ -1,0 +1,12 @@
+# Análisis de redes
+networkx>=2.5
+
+# Manipulación de datos
+pandas>=1.2.0
+
+# Cálculo numérico
+numpy>=1.19.0
+
+mygene
+
+tqdm
